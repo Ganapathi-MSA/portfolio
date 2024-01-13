@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk-new.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Developing Telegram Bot Using Python In Just a Few Steps",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://medium.com/@ganapathi-d/developing-telegram-bot-using-python-in-just-a-few-steps-40137f97b6f4",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Best 5 No Code Website Builder Tools | 100% Free to build",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://youtu.be/1DhL31v7wDU?si=P38YR_xsfM03z2PY",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developing JAVA Applications and Deploying (Part - 1)",
+    url: "https://youtu.be/DzQ8NdC8y10?si=YnxPmsc9BHgctUHX",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Portfolio - II",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://ganapathi-portfolio.vercel.app",
   },
 ];
 
