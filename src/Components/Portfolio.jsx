@@ -33,17 +33,17 @@ const projectList = [
   {
     title: "Developing Telegram Bot Using Python In Just a Few Steps",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+    "Build Telegram bots in a very simple way",
     url: "https://medium.com/@ganapathi-d/developing-telegram-bot-using-python-in-just-a-few-steps-40137f97b6f4",
   },
   {
     title: "Best 5 No Code Website Builder Tools | 100% Free to build",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "I listed out the recent 5 best No Code website builder tools",
     url: "https://youtu.be/1DhL31v7wDU?si=P38YR_xsfM03z2PY",
   },
   {
-    title: "My Resume Site",
+    title: "Java App Titorial",
     description:
       "Developing JAVA Applications and Deploying (Part - 1)",
     url: "https://youtu.be/DzQ8NdC8y10?si=YnxPmsc9BHgctUHX",
@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "My Portfolio - II",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "My First Portofolio website build with Next JS",
     url: "https://ganapathi-portfolio.vercel.app",
   },
 ];
